@@ -71,4 +71,4 @@ The work combines **course tools** (Spearman correlation, linear regression, non
 ---
 
 ## Notes
-- The dataset is **synthetic** and intended for **educational purposes** only.
+- The dataset is **simulated**.
