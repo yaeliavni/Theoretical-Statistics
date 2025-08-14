@@ -69,6 +69,8 @@ The work combines **course tools** (Spearman correlation, linear regression, non
    ```
 
 ---
-
+You can view the full Overleaf document here:  
+[Open in Overleaf](https://www.overleaf.com/read/cjhwthxtthwy#eb79bf)
+---
 ## Notes
 - The dataset is **simulated**.
